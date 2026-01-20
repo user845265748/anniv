@@ -84,7 +84,6 @@ const quotes = [
   "Tu es plus forte que les pensées qui te font douter.",
   "Tu n’as rien perdu de ta valeur.",
   "Tu es légitime dans ce que tu ressens.",
-  "Tu es aimable, même dans tes moments fragiles.",
   "Tu n’es pas en retard, tu es en chemin.",
   "Tu mérites d’aller bien.",
   "Tu n’es pas seule, même quand ça fait mal.",
@@ -92,6 +91,7 @@ const quotes = [
   "Tu as le droit d’y croire encore.",
   "Tu es précieuse, simplement parce que tu existes."
 ];
+
 
 
 
