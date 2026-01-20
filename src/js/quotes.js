@@ -78,7 +78,7 @@ const quotes = [
   "Tu es capable de bien plus que tu ne l’imagines.",
   "Tu mérites qu’on prenne soin de toi.",
   "Tu as survécu à tous tes pires jours.",
-  "Ce n'es pas un échec, c'est une construction.",
+  "Ce n'es pas un échec, c'est un apprentissage.",
   "Tu peux être fière de ton courage silencieux.",
   "Tu as le droit d’être douce avec toi.",
   "Tu es plus forte que les pensées qui te font douter.",
@@ -92,5 +92,6 @@ const quotes = [
   "Tu as le droit d’y croire encore.",
   "Tu es précieuse, simplement parce que tu existes."
 ];
+
 
 
